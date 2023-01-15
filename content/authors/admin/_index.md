@@ -2,11 +2,7 @@
 title: Viswesh N
 role: Junior Undergraduate Student at the Department of Electrical Engineering,
   IIT Kharagpur
-bio: "I am junior undergraduate at the Indian Institute of Technology, Kharagpur
-  pursuing Electrical Engineering. My research interests include Reinforcement
-  Learning, Human Robot interaction, Computer Vision and Motion Planning in
-  context of Robotics. My research work has been in developing systems and
-  agents which benefit or rely on these algorithms. "
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -55,6 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am junior undergraduate at the Indian Institute of Technology, Kharagpur pursuing Electrical Engineering. My research interests include Reinforcement Learning, Human Robot interaction, Computer Vision and Motion Planning in context of Robotics. My research work has been in developing systems and agents which benefit or rely on these algorithms.
