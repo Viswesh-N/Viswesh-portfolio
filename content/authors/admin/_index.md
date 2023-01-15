@@ -51,4 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am junior undergraduate at the Indian Institute of Technology, Kharagpur pursuing Electrical Engineering. My research interests include Reinforcement Learning, Human Robot interaction, Computer Vision and Motion Planning in context of Robotics. My research work has been in developing systems and agents which benefit or rely on these algorithms.
+I am junior undergraduate at the Indian Institute of Technology, Kharagpur pursuing Electrical Engineering. My research interests include Reinforcement Learning, Motion Planning and Control in the context of Robotics. My research work has been in developing systems and agents which benefit or rely on these algorithms. I am also actively exploring the domains of Multi Agent systems and Human Robot Interaction and their applications in autonomous driving
