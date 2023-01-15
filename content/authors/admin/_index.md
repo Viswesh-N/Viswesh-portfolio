@@ -2,7 +2,11 @@
 title: Viswesh N
 role: Junior Undergraduate Student at the Department of Electrical Engineering,
   IIT Kharagpur
-bio: "I am "
+bio: "I am junior undergraduate at the Indian Institute of Technology, Kharagpur
+  pursuing Electrical Engineering. My research interests include Reinforcement
+  Learning, Human Robot interaction, Computer Vision and Motion Planning in
+  context of Robotics. My research work has been in developing systems and
+  agents which benefit or rely on these algorithms. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
